@@ -9,7 +9,7 @@ import Notes from './pages/Notes'
 import Pricing from './pages/Pricing'
 import PaymentSuccess from './pages/PaymentSuccess'
 import PaymentFailed from './pages/PaymentFailed'
-export const serverUrl = "https://prepgenius-ai-server-i6ia.onrender.com/"
+export const serverUrl = "https://prepgenius-ai-server-i6ia.onrender.com"
 
 function App() {
   const dispatch = useDispatch()
